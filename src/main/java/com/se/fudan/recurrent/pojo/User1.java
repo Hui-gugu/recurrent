@@ -1,11 +1,11 @@
 package com.se.fudan.recurrent.pojo;
 
-public class Test {
+public class User1 {
     private int number;
     private String text;
 
     // 带参数的构造函数
-    public Test(int number, String text) {
+    public User1(int number, String text) {
         this.number = number;
         this.text = text;
     }
