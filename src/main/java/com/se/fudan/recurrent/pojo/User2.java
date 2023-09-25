@@ -1,5 +1,5 @@
 package com.se.fudan.recurrent.pojo;
-
+解析失败
 public class User2 {
     private int number;
     private String text;
