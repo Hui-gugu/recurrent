@@ -1,5 +1,5 @@
 package com.se.fudan.recurrent.pojo;
-
+如果原文件并不能正确编译，却仍然提交，追溯服务将无法正常解析，将所有语句视作DELETE
 public class Test {
     private int number;
     private String text;
